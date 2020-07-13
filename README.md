@@ -23,4 +23,4 @@ More on [zhangchunsheng.github.io](https://zhangchunsheng.github.io/)
 More on [til.luomor.com](https://til.luomor.com/)
 </td></tr></table>
 
-<a href="https://github.com/zhangchunsheng/zhangchunsheng/actions"><img src="https://github.com/zhangchunsheng/zhangchunsheng/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://luomor.com/">How this works</a>
+<a href="https://github.com/zhangchunsheng/zhangchunsheng/actions"><img src="https://github.com/zhangchunsheng/zhangchunsheng/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://www.luomor.com/">How this works</a>
