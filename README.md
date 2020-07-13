@@ -6,7 +6,7 @@ Currently working on [Home](https://www.luomor.com/) and associated projects. Re
 <!-- recent_releases starts -->
 * [grpc-test v0.0.1](https://github.com/zhangchunsheng/grpc-test/releases/tag/v0.0.1) - 2020-07-13
 <!-- recent_releases ends -->
-More [recent releases](https://github.com/zhangchunsheng/zhangchunsheng/blob/main/releases.md)
+More [recent releases](https://github.com/zhangchunsheng/zhangchunsheng/blob/master/releases.md)
 </td><td valign="top">
 
 ### On my blog
