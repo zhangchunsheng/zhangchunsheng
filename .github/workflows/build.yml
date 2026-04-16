@@ -30,7 +30,6 @@ jobs:
       env:
         LUOMOR_TOKEN: ${{ secrets.LUOMOR_TOKEN }}
       run: |-
-        python build_readme.py
         cat README.md
     - name: Commit and push if changed
       run: |-
