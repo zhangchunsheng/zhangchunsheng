@@ -27,9 +27,5 @@ More on [til.luomor.com](https://til.luomor.com/)
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=zhangchunsheng&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zhangchunsheng&theme=radical">
-</p>
-
-<p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=zhangchunsheng&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=zhangchunsheng&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
