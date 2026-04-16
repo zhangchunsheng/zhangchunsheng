@@ -26,6 +26,6 @@ More on [www.luomor.com](https://www.luomor.com/)
 <a href="https://github.com/zhangchunsheng/zhangchunsheng/actions"><img src="https://github.com/zhangchunsheng/zhangchunsheng/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://www.luomor.com/">How this works</a>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=zhangchunsheng&show_icons=true&theme=tokyonight" />
+  <img src = "https://github-readme-stats.vercel.app/api?username=zhangchunsheng&show_icons=true&theme=tokyonight&line_height=27" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhangchunsheng&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
