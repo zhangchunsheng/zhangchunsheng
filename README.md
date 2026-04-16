@@ -1,5 +1,7 @@
 Currently working on [Home](https://www.luomor.com/) and associated projects. Read [my blog](https://zhangchunsheng.github.io/) or [follow @hunterlre on Twitter](https://twitter.com/hunterlre).
 
+<h2 align="center">Reach me on <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc253eWkzbHIweHRpbHUzOWtsamNhcDdtOWhqMmxmY3RxaDZ4cXo4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VKsNyITioHOr75OGD3/giphy.gif" width="50"></h2>
+
 <table><tr><td valign="top">
 
 ### Recent releases
