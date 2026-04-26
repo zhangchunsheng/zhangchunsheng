@@ -22,10 +22,10 @@ Currently working on [Home](https://www.luomor.com/) and associated projects. Re
 
 <p align="center">
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
+<img src="https://img.shields.io/badge/-claude-430098?style=flat-square&logo=claude"/>
+<img src="https://img.shields.io/badge/-php-E34F26?style=flat-square&logo=php"/>
+<img src="https://img.shields.io/badge/-web-1572B6?style=flat-square&logo=web"/>
+<img src="https://img.shields.io/badge/-mysql-563D7C?style=flat-square&logo=mysql"/>
 </p>
 
 <table><tr><td valign="top">
